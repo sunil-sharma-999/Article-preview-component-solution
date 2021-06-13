@@ -28,7 +28,9 @@ Users should be able to:
 ### Screenshot
 
 ![desktop screenshot](./screenshots/desktop.png)
+![desktop screenshot](./screenshots/desktop-active.png)
 <img src="./screenshots/mobile.png" alt="screenshot" width="200px">
+<img src="./screenshots/mobile-active.png" alt="screenshot" width="200px">
 
 ### Links
 
