@@ -9,6 +9,7 @@ share.addEventListener('click', () => {
       s2.visibility = 'visible';
     } else if (s2.visibility === 'visible') {
       s2.visibility = 'hidden';
+      s1.visibility = 'visible';
     } else {
       console.log('Desktop: something went wrong!');
     }
