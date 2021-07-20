@@ -1,4 +1,4 @@
-# Frontend Mentor - Article preview component solution
+# Article preview component solution
 
 This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Social proof section solution - GitHub](https://github.com/sunil-sharma-999/Frontend-Mentor-Article-preview-component-solution/)
-- Live Site URL: [Social proof section solution](https://sunil-sharma-999.github.io/Frontend-Mentor-Article-preview-component-solution/)
+- Solution URL: [Social proof section solution - GitHub](https://github.com/sunil-sharma-999/Article-preview-component-solution/)
+- Live Site URL: [Social proof section solution](https://sunil-sharma-999.github.io/Article-preview-component-solution/)
 
 ## My process
 
